@@ -1,6 +1,6 @@
 export default function Message(){
     function change(){
-        console.log("Clicked")
+        console.log("hi")
     }
 
     return  (
